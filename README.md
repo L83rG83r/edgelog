@@ -1,0 +1,2 @@
+# edgelog
+Personal trading journal
